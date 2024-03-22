@@ -14,8 +14,8 @@ export default function () {
             of these is second to none.
           </p>
         </section>
-        <section className="U-C-Q-D">
-          <div className="inner-U-C-Q-D">
+        <section className="scis_sub_head">
+          <div className="inner-scis_sub_head">
             <div>
               <span>
                 <i className="bx bx-adjust"></i>

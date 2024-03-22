@@ -9,7 +9,7 @@ export default function HeroSection() {
       <div className="optimz_con">
         <div className="optimz_header">
           <h1>
-            optimz Your Online Experience with Our <br />
+            Optimize Your Online Experience with Our <br />
             Advanced <span>URL Shortening</span> Solution
           </h1>
           <p>

@@ -14,7 +14,7 @@
     line-height: 80px;
     text-align: center;
     margin-bottom: 1rem;
-    color: #718d57;
+    color: #111110;
   }
   
   .optimz_header span {
@@ -138,7 +138,7 @@
     flex-basis: 35%;
   }
   
-  .U-C-Q-D {
+  .scis_sub_head {
     flex-basis: 60%;
   }
   
@@ -156,32 +156,32 @@
     line-height: 25px;
   }
   
-  .inner-U-C-Q-D {
+  .inner-scis_sub_head {
     display: flex;
     flex-wrap: wrap;
   }
   
-  .inner-U-C-Q-D div {
+  .inner-scis_sub_head div {
     width: 50%;
   }
   
-  .inner-U-C-Q-D div:nth-child(1),
-  .inner-U-C-Q-D div:nth-child(2) {
+  .inner-scis_sub_head div:nth-child(1),
+  .inner-scis_sub_head div:nth-child(2) {
     margin-bottom: 50px;
   }
   
-  .inner-U-C-Q-D div p {
+  .inner-scis_sub_head div p {
     font-size: 1rem;
     padding-top: 0.6em;
     width: 80%;
     line-height: 22px;
   }
   
-  .inner-U-C-Q-D div h1 {
+  .inner-scis_sub_head div h1 {
     font-size: 1.5em;
   }
   
-  .inner-U-C-Q-D span {
+  .inner-scis_sub_head span {
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -694,12 +694,12 @@
     }
   
     .why-choose-scissors,
-    .U-C-Q-D {
+    .scis_sub_head {
       flex-basis: auto;
       width: 100%;
     }
   
-    .inner-U-C-Q-D div {
+    .inner-scis_sub_head div {
       width: 100%;
       margin-top: 1rem;
       margin-bottom: 30px;
@@ -717,12 +717,12 @@
       line-height: 20px;
     }
   
-    .inner-U-C-Q-D div p {
+    .inner-scis_sub_head div p {
       font-size: 0.9em;
       line-height: 18px;
     }
   
-    .inner-U-C-Q-D div h1 {
+    .inner-scis_sub_head div h1 {
       font-size: 1.3em;
     }
   }
@@ -738,16 +738,16 @@
       line-height: 18px;
     }
   
-    .inner-U-C-Q-D div p {
+    .inner-scis_sub_head div p {
       font-size: 0.8em;
       line-height: 16px;
     }
   
-    .inner-U-C-Q-D div h1 {
+    .inner-scis_sub_head div h1 {
       font-size: 1.1em;
     }
   
-    .inner-U-C-Q-D span {
+    .inner-scis_sub_head span {
       font-size: 18px;
     }
   }
